@@ -1,3 +1,6 @@
 //your JS code here. If required.
-const confirm = document.getElementById("confirm-btn");
-confirm.alert("ggfyghhj")
+// const userResponse= confirm("Do you want to proceed?");
+
+if(userResponse){
+	alert("You clicked OK. Proceeding...");
+}
