@@ -4,3 +4,6 @@
 if(userResponse){
 	alert("You clicked OK. Proceeding...");
 }
+else{
+	alert("You clicked Cancel. Exiting...");
+}
